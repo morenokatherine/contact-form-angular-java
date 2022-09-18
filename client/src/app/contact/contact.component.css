@@ -1,0 +1,21 @@
+:host {
+  min-width: 350px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  padding: 20px;
+}
+
+.submit {
+  margin: auto;
+  margin-top: 10px;
+}
+
+.invalid-feedback {
+  display: block;
+}
